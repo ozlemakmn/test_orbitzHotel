@@ -1,0 +1,7 @@
+/.pytest_cache
+/.vscode
+/archive
+/node_modules
+/output.json
+/package-lock.json
+/package.json
